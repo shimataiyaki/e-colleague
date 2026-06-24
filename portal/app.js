@@ -1,5 +1,5 @@
-// GAS WebアプリのURL（デプロイ後に差し替え）
-const API_URL = 'https://script.google.com/macros/s/xxxxxxxxx/exec';
+// GAS URL not for reuse.
+const API_URL = 'https://script.google.com/macros/s/AKfycbwVRUbu-HrQVayLf6-9Y-Q7j98a9UQianpDXSW5rPPoRhCWG17BLwGThiL8oRffQMa5Ag/exec';
 
 function login() {
   const groupId = document.getElementById('groupId').value.trim();
