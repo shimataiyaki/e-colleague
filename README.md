@@ -1,4 +1,4 @@
-# e-colleague
+# Tasno
 
 LINEグループ上で動作するチーム向けタスク管理AIアシスタント。自然な会話をコンテキストとして蓄積し、「やる」「お願い」などのキーワードをトリガーにAIがタスクを自動抽出・記録します。
 
@@ -41,7 +41,7 @@ MIT License
 
 ## プロジェクトサイト
 
-[https://shimataiyaki.github.io/e-colleague/](https://shimataiyaki.github.io/e-colleague/)
+[https://shimataiyaki.github.io/projects/tasno/](https://shimataiyaki.github.io/projects/tasno/)
 
 ## 開発者
 
